@@ -1,5 +1,6 @@
 re
-you 
-read
+you
+all 
+ready
 for
-Java
+software
